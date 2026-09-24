@@ -1,0 +1,18 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+:root {
+    --bg: #1400f0;
+    --cyan: #7ffcff;
+    --white: #f2f4ff;
+    --yellow: #fff338;
+    --black: #0a0620;
+}
+
+.page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.25rem 1.25rem 0;
+}
+
